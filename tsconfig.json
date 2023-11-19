@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "incremental": true,
+    "outDir": "./dist/",
+      "target": "esnext",
+      "lib": ["esnext"],
+      "module": "commonjs",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "skipLibCheck": true
+    }
+  
+}
